@@ -4,10 +4,11 @@ class Solution {
         
         while (m <= h){
             if (nums[m] == 0){
-                int temp = nums[l];
-                nums[l] = nums[m];
-                nums[m] = temp;
-                
+                if (l != m){
+                    int temp = nums[l];
+                    nums[l] = nums[m];
+                    nums[m] = temp;
+                }
                 l++;
                 m++;
             } else if (nums[m] == 1){
