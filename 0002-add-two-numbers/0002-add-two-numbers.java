@@ -42,22 +42,4 @@ class Solution {
         if (remainder > 0) result.next = new ListNode(remainder);
         return head;
     }
-    
-    private ListNode reverse(ListNode node){
-        
-        ListNode prev = null, next = null, curr = node;
-        
-        while(null != curr){
-            next = curr.next;
-            
-            curr.next = prev;
-                
-            prev = curr;
-            
-            curr = next;
-        }
-        
-        return prev;
-        
-    }
 }
