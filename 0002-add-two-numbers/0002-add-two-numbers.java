@@ -12,16 +12,13 @@ class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         //l1 = reverse(l1);
         //l2 = reverse(l2);
+        //no need to reverse because we start add operation from 1's, 10's, 100's position
         
         ListNode result = null, head = null;
         int remainder = 0;
-        while (l1 !=null || l2 != null /*|| (l1 == null && l2 == null && remainder > 0)*/){
+        while (l1 !=null || l2 != null){
             if (l1 == null) l1 = new ListNode(0);
             else if (l2 == null) l2 = new ListNode(0);
-            /*else if (l1 == null && l2 == null && remainder > 0) {
-                l2 = new ListNode(0);
-                l1 = new ListNode(0);
-            }*/
            // System.out.println("l1 : "+l1.val+ " l2 : "+l2.val);
             if (result == null){
                 result = new ListNode((l1.val+l2.val)%10);
