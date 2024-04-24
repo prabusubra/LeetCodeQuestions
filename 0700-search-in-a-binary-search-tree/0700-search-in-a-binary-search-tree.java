@@ -15,13 +15,9 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        return traverse(root, val);
-    }
-
-    public TreeNode traverse(TreeNode root, int val){
         if (root == null) return null;
-        else if (root.val > val) return traverse(root.left, val);
-        else if(root.val < val) return traverse(root.right, val);
+        else if (root.val > val) return searchBST(root.left, val);
+        else if(root.val < val) return searchBST(root.right, val);
         else return root;
     }
 }
