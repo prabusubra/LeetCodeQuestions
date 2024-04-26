@@ -15,15 +15,13 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        List<Integer> list = new ArrayList<>();
-        traversal(root, list);
-        return list.stream().filter(data -> data >= low && data <= high).reduce(0, (a,b) -> a +b);
+        return traversal(root, low, high);
     }
     
-    private void traversal(TreeNode node, List<Integer> list){
-        if (null == node) return;
-        if (node.left != null) traversal(node.left, list);
-        list.add(node.val);
-        if (node.right != null) traversal(node.right, list);
+    private int traversal(TreeNode node, int low, int high){
+       if (node == null) return 0;
+        if (node.val < low) return traversal(node.right, low, high);
+        if (node.val > high) return traversal(node.left, low, high);
+        return node.val + traversal(node.left, low, high) + traversal(node.right, low, high);
     }
 }
