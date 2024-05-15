@@ -7,10 +7,11 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         while (i >=0 || j>=0){
             int sum = carry;
+            //without sum-'0', it is giving 98 for 50 instead of zero and one.
             if (i >=0) sum += a.charAt(i--) - '0';
             if (j>=0) sum += b.charAt(j--) - '0';
             carry = sum >1 ? 1 :0;
-            //System.out.println("RRR : "+sum+" carry : "+carry);
+            //System.out.println("Sum : "+sum+" carry : "+carry);
             sb.append(sum%2);
             
         }
