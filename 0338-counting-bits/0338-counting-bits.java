@@ -1,5 +1,5 @@
 class Solution {
-    Map<Integer, Integer> cache = new HashMap<>();
+    //Map<Integer, Integer> cache = new HashMap<>();
     public int[] countBits(int n) {
         int[] result  = new int[n+1];
         for (int i=0;i<=n;i++){
@@ -11,13 +11,13 @@ class Solution {
     private int getCountSetBits(int n){
         int count = 0;
         while (n>0){
-            if (cache.containsKey(n))
-                n = cache.get(n);
-            else{
-                int temp = n;
+           // if (cache.containsKey(n))
+                //n = cache.get(n);
+            //else{
+               // int temp = n;
                 n = n & n-1;
-                cache.put(temp, n);
-            }
+                //cache.put(temp, n);
+            //}
             
             count++;
         }
