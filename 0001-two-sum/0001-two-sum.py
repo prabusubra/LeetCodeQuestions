@@ -7,4 +7,4 @@ class Solution:
                 return [map1.get(b), i]
             else:
                 map1[nums[i]] = i
-        return
+        return []
