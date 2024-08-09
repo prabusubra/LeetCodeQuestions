@@ -8,8 +8,8 @@ class Solution {
         }
         
       // calculate right product
-        int rp = 1;
-        for (int i=nums.length-1; i >=0;i--){
+        int rp = nums[nums.length-1];
+        for (int i=nums.length-2; i >=0;i--){
             ans[i] = ans[i]*rp;
             rp = rp*nums[i];
         }
