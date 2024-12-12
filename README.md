@@ -38,4 +38,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
