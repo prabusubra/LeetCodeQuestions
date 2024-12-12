@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -54,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
