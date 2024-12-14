@@ -1,26 +1,34 @@
 class Solution {
     public long continuousSubarrays(int[] nums) {
-        long ans = 1;
-        int left = nums[0] - 2;
-        int right = nums[0] + 2;
-        int l = 0;
-        for (int r = 1; r < nums.length; r++) {
-            if (left <= nums[r] && nums[r] <= right) {
-                left = Math.max(left, nums[r] - 2);
-                right = Math.min(right, nums[r] + 2);
-            } else {
-                 left = nums[r] - 2;
-                right = nums[r] + 2;
-                l = r;
-                while (nums[r] - 2 <= nums[l] && nums[l] <= nums[r] + 2) {
-                    left = Math.max(left, nums[l] - 2);
-                    right = Math.min(right, nums[l] + 2);
-                    l--;
+        // Initialize the result count
+        long totalCount = 0;
+        // Initialize two pointers for the sliding window
+        int windowStart = 0;
+        int n = nums.length;
+        // TreeMap to keep track of the frequency of each number in the current window
+        // The TreeMap's keys are sorted, so we can efficiently access the smallest and largest values
+        TreeMap<Integer, Integer> frequencyMap = new TreeMap<>();
+
+        // Iterate over all elements in the array using the 'windowEnd' pointer
+        for (int windowEnd = 0; windowEnd < n; ++windowEnd) {
+            // Increment the frequency of the current number, initializing it to 1 if it doesn't exist
+            frequencyMap.merge(nums[windowEnd], 1, Integer::sum);
+            // Shrink the window from the left if the condition is breached:
+            // The difference between the maximum and minimum is greater than 2
+            while (frequencyMap.lastEntry().getKey() - frequencyMap.firstEntry().getKey() > 2) {
+                // Reduce the frequency of the number at 'windowStart'
+                frequencyMap.merge(nums[windowStart], -1, Integer::sum);
+                // If the frequency drops to 0, remove it from the map
+                if (frequencyMap.get(nums[windowStart]) == 0) {
+                    frequencyMap.remove(nums[windowStart]);
                 }
-                l++;
+                // Move the start of the window forward
+                ++windowStart;
             }
-            ans += r - l + 1;
+            // Add the number of subarrays ending at 'windowEnd' which are valid
+            totalCount += windowEnd - windowStart + 1;
         }
-        return ans;
+        // Return the total number of continuous subarrays found
+        return totalCount;
     }
 }
