@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,4 +67,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
