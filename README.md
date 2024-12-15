@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3427-special-array-ii) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
