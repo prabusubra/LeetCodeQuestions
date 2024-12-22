@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -114,4 +117,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
