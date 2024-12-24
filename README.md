@@ -67,15 +67,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
