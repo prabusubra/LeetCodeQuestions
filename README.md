@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
@@ -141,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
