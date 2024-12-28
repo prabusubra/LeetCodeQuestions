@@ -1,16 +1,16 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        sort(nums);
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
+        performCyclicSort(nums);
+
+        for (int i = 0; i < nums.length; i++) {
             if (nums[i] != i) {
                 return i;
             }
         }
-        return n;
+        return nums.length;
     }
 
-    private static void sort(int[] arr) {
+    private static void performCyclicSort(int[] arr) {
         int i = 0;
         while (i < arr.length) {
             int correctIndex = arr[i];
