@@ -1,16 +1,30 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        // Add all nums into the HashSet
-        for (int num : nums) {
-            set.add(num);
+        
+        int n = nums.length;
+
+        sort(nums);
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i + 1) return i + 1;
         }
-        // Check from 1 to infinite for the first missing number
-        for (int i = 1; i <= nums.length + 1; i++) {
-            if (!set.contains(i)) {
-                return i;
+
+        return n + 1;
+        
+    }
+
+    private static void sort(int[] arr) {
+        int i = 0;
+        while ( i < arr.length) {
+            int currIndex = arr[i] - 1;
+            if (arr[i] > 0 && arr[i] <= arr.length && arr[i] != arr[currIndex]) {
+                int tmp = arr[i];
+                arr[i] = arr[currIndex];
+                arr[currIndex] = tmp;
+                
+            } else {
+                i++;
             }
         }
-        return -1;
     }
 }
