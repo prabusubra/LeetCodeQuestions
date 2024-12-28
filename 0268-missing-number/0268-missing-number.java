@@ -2,7 +2,6 @@ class Solution {
     public int missingNumber(int[] nums) {
         sort(nums);
         int n = nums.length;
-        for (int a: nums) System.out.println("a "+a);
         for (int i = 0; i < n; i++) {
             if (nums[i] != i) {
                 return i;
