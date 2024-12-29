@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,5 +196,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 <!---LeetCode Topics End-->
