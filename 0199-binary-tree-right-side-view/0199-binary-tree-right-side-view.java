@@ -30,7 +30,7 @@ class Solution {
             for (int i=0; i< levelSize; i++ ) {
                 TreeNode node = queue.poll();
 
-                //last element in the level order is visible from right side
+                //last element in the each level order is visible from right side
                 if (i == levelSize-1)
                     result.add(node.val);
 
