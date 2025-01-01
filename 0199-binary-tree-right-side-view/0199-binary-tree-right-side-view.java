@@ -15,29 +15,31 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ls = new ArrayList<>();
-        
-        if (root == null) return ls;
-        
+        List<Integer> result = new ArrayList<>();
+
+        if (root == null) return result;
+
         Queue<TreeNode> queue = new LinkedList<>();
-        
+
         queue.add(root);
-        
-        while (!queue.isEmpty()){
-            int parentSize = queue.size();
-            
-            for (int i =0; i < parentSize; i++){
+
+
+        while (!queue.isEmpty()) {
+            int levelSize = queue.size();
+
+            for (int i=0; i< levelSize; i++ ) {
                 TreeNode node = queue.poll();
-                if (null != node){
-                    if (i == parentSize-1) ls.add(node.val);
-                    if (null != node.left)
-                        queue.add(node.left);
-                    if (null != node.right)
-                        queue.add(node.right);
-                }
+
+                //last element in the level order is visible from right side
+                if (i == levelSize-1)
+                    result.add(node.val);
+
+                if (node.left !=null) queue.add(node.left);
+                if (node.right != null) queue.add(node.right);
+                
             }
         }
-        
-        return ls;
+
+        return result;
     }
 }
