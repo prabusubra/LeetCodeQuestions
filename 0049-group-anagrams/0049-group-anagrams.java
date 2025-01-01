@@ -8,7 +8,7 @@ class Solution {
             Arrays.sort(chars);
             String sortedWord = String.valueOf(chars);
 
-            grouping.computeIfAbsent(sortedWord, key -> new ArrayList<>()).add(word);
+            grouping.compute(sortedWord, (key, value ) -> value == null ? new ArrayList<>() : value).add(word);
         }
 
         return new ArrayList(grouping.values());
