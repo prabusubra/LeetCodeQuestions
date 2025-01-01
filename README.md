@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0948-sort-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1025-minimum-cost-for-tickets) |
+| [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
