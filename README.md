@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [3427-special-array-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [1297-maximum-number-of-balloons](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1632-number-of-good-ways-to-split-a-string) |
