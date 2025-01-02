@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2470-removing-stars-from-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
 |  |
