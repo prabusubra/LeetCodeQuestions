@@ -19,7 +19,9 @@ class Solution {
             if (!visited[curr - 'a']) {
 
                 while (!stack.isEmpty() &&
-                        stack.peek() > curr &&
+                        // if characters needs to maintain order
+                       stack.peek() > curr &&
+                       // if character is there in future
                         lastIndex[stack.peek() - 'a'] > i) {
                             visited[stack.pop() - 'a'] = false;
                         }
