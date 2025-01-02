@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
