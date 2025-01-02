@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 ## Math
 |  |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
+| [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1297-maximum-number-of-balloons) |
