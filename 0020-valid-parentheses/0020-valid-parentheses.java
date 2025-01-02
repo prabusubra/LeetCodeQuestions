@@ -1,7 +1,7 @@
 class Solution {
     public boolean isValid(String s) {
         
-        Stack<Character> stack = new Stack<>();
+        Deque<Character> stack = new ArrayDeque<>();
 
         for (int i=0; i < s.length(); i++ ) {
             char ch = s.charAt(i);
