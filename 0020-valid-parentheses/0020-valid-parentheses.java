@@ -2,6 +2,7 @@ class Solution {
     public boolean isValid(String s) {
         
         Stack<Character> stack = new Stack<>();
+
         Map<Character, Character> mapping = new HashMap<>();
         mapping.put('(', ')');
         mapping.put('[', ']');
@@ -14,9 +15,7 @@ class Solution {
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } else {
-                if (stack.isEmpty()) return false;
-                char top = stack.pop();
-                if (mapping.get(top) != ch)
+                if (stack.isEmpty() || mapping.get(stack.pop()) != ch)
                     return false;
             }
 
