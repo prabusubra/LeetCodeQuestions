@@ -1,24 +1,26 @@
 class Solution {
     public boolean isValid(String s) {
         
-        Stack<Character> bucket = new Stack<Character>();
-        for (int i =0; i < s.length();i++){
-            Character current = s.charAt(i);
-            System.out.println(" current : "+current);
-            if (bucket.isEmpty()) bucket.push(current);
-            else if ('(' == bucket.peek() && ')' == current){
-                bucket.pop();
-            } else if ('{' == bucket.peek() && '}' == current){
-                bucket.pop();
-            } else if ('[' == bucket.peek() && ']' == current){
-                bucket.pop();
-            } else {
-                bucket.push(current);
-            }
-        }
+        Stack<Character> stack = new Stack<>();
+        Map<Character, Character> mapping = new HashMap<>();
+        mapping.put('(', ')');
+        mapping.put('[', ']');
+        mapping.put('{', '}');
+        
 
-        return bucket.isEmpty();
-        
-        
+        for (int i=0; i < s.length(); i++ ) {
+            char ch = s.charAt(i);
+            
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            } else {
+                if (stack.isEmpty()) return false;
+                char top = stack.pop();
+                if (mapping.get(top) != ch)
+                    return false;
+            }
+
+        }
+        return stack.isEmpty();
     }
 }
