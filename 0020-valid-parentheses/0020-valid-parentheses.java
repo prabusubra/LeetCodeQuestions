@@ -3,20 +3,14 @@ class Solution {
         
         Deque<Character> stack = new ArrayDeque<>();
 
-        for (int i=0; i < s.length(); i++ ) {
-            char ch = s.charAt(i);
-            
-            if (ch == '(' || ch == '{' || ch == '[') {
-                stack.push(ch);
-            } else {
-                if (stack.isEmpty() || 
-                    ch == ')' && stack.pop() != '(' ||
-                    ch == '}' && stack.pop() != '{' ||
-                    ch == ']' && stack.pop() != '[' )
-                    return false;
-            }
-
+        for (char curr: s.toCharArray()) {
+            if (curr == '(') stack.push(')');
+            else if (curr == '{') stack.push('}');
+            else if (curr == '[') stack.push(']');
+            else if (stack.isEmpty() || stack.pop() != curr) 
+                return false;
         }
+
         return stack.isEmpty();
     }
 }
