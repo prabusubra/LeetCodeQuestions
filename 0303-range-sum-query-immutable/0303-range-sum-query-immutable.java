@@ -4,14 +4,19 @@ class NumArray {
 
     public NumArray(int[] nums) {
         this.prefixSum = new int[nums.length + 1];
-        for (int i=0; i < nums.length; i++) 
-            this.prefixSum[i + 1] = this.prefixSum[i] + nums[i];
+        int totalSum = 0;
+        for (int i=0; i < nums.length; i++) {
+            totalSum += nums[i];
+            this.prefixSum[i] = totalSum;
+        }
     }
     
     public int sumRange(int left, int right) {
         // -2, 0, 3, -5, 2, -1
         // -2, 0, 1, -4, -2, -3
-        return this.prefixSum[right + 1] - this.prefixSum[left];
+        if (left > 0)
+            return this.prefixSum[right] - this.prefixSum[left -1];
+        else return this.prefixSum[right];
 
     }
 }
