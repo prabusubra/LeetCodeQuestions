@@ -15,7 +15,7 @@ class Solution {
             if (ch == '(') {
                 stack.push(i);
             } else {
-                stack.pop();
+                    stack.pop();
                 if (stack.isEmpty()) {
                     stack.push(i);
                 } else {
