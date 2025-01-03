@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
