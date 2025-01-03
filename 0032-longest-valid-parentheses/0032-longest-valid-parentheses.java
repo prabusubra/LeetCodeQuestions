@@ -1,7 +1,5 @@
 class Solution {
     public int longestValidParentheses(String s) {
-        
-        if (s.length() < 2) return 0;
 
         Deque<Integer> stack = new ArrayDeque<>();
 
