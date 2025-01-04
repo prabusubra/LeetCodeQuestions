@@ -17,11 +17,11 @@ class Solution {
 
                 if (absTop < absAst) {
                     stack.pop();
-                } else if (absTop == absAst) {
-                    stack.pop();
+                } else if (absTop > absAst) {
                     destroyed = true;
                     break;
                 } else {
+                    stack.pop();
                     destroyed = true;
                     break;
                 }
