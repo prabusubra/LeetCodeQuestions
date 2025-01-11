@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -308,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
