@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2358-number-of-ways-to-split-array) |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [2868-continuous-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
