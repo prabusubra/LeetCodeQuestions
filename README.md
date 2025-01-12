@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1025-minimum-cost-for-tickets) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
@@ -229,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
