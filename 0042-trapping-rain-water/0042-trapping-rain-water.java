@@ -7,23 +7,11 @@ class Solution {
 
         while (left < right) {
             if (height[left] < height[right]) {
-
-                if (height[left] > leftMax) {
-                    leftMax = height[left];
-                } else {
-                    trappedWater += leftMax - height[left];
-                }
-                left++;
-
+                leftMax = Math.max(height[left], leftMax);
+                trappedWater += leftMax - height[left++];
             } else {
-                
-                if (height[right] > rightMax) {
-                    rightMax = height[right];
-                } else {
-                    trappedWater += rightMax - height[right];
-                }
-                right--;
-
+                rightMax = Math.max(height[right], rightMax);
+                trappedWater += rightMax - height[right--];
             }
         }
 
