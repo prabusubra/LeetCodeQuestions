@@ -8,15 +8,13 @@ class Solution {
 
         leftMax[0] = height[0];
         for (int i=1; i < height.length; i++ ) {
-            if (leftMax[i-1] > height[i]) leftMax[i] = leftMax[i-1];
-            else leftMax[i] = height[i];
+            leftMax[i] = Math.max(leftMax[i-1], height[i]);
         }
 
         rightMax[n-1] = height[n-1];
 
         for (int i=n-2; i > -1; i-- ) {
-            if (rightMax[i+1] > height[i]) rightMax[i] = rightMax[i+1];
-            else rightMax[i] = height[i];
+            rightMax[i] = Math.max(rightMax[i+1], height[i]);
         }
 
         int result = 0;
