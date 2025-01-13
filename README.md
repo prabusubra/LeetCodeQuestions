@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
