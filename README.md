@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1025-minimum-cost-for-tickets) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1632-number-of-good-ways-to-split-a-string) |
