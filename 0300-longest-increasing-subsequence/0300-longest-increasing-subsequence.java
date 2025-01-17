@@ -6,13 +6,13 @@ class Solution {
 
         Arrays.fill(dp, 1);
 
-        for (int i = 1; i < nums.length; i++ ) {
-            for (int j = 0; j < i; j++ ) {
-                if (nums[j] < nums[i]) {
-                    dp[i] = Math.max(dp[i], dp[j] +1);
+        for (int curr = 1; curr < nums.length; curr++ ) {
+            for (int prev = 0; prev < curr; prev++ ) {
+                if (nums[prev] < nums[curr]) {
+                    dp[curr] = Math.max(dp[curr], dp[prev] +1);
                 }
             }
-            maxLength = Math.max(maxLength, dp[i]);
+            maxLength = Math.max(maxLength, dp[curr]);
         }
 
         return maxLength;
