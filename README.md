@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
