@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
