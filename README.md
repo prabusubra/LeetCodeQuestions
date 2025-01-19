@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 ## Matrix
