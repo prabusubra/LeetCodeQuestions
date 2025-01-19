@@ -5,18 +5,16 @@ class Solution {
         return res;
     }
 
-    private void backtrack(int[] nums, int curr, List<Integer> path, List<List<Integer>> result) {
+    private void backtrack(int[] nums, int start, List<Integer> currentSubset, List<List<Integer>> result) {
 
-        result.add(new ArrayList(path));
+        result.add(new ArrayList(currentSubset));
 
-        for (int i = curr; i < nums.length; i++) {
-            path.add(nums[i]);
-            backtrack(nums, i + 1, path, result);
-            path.remove(path.size()-1);
+        for (int i = start; i < nums.length; i++) {
+            currentSubset.add(nums[i]);
+            backtrack(nums, i + 1, currentSubset, result);
+            currentSubset.remove(currentSubset.size()-1);
         }
 
-
     }
-
     
 }
