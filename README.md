@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
