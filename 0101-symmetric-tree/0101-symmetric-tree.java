@@ -20,14 +20,30 @@ class Solution {
         return isMirror(root.left, root.right);
     }
 
-    private boolean isMirror(TreeNode node1, TreeNode node2) {
+    private boolean isMirror(TreeNode nodeA, TreeNode nodeB) {
+         Queue<TreeNode> queue = new LinkedList<>();
+    queue.offer(nodeA);
+    queue.offer(nodeB);
 
-        if (node1 == null && node2 == null) return true;
+    while (!queue.isEmpty()) {
+        TreeNode node1 = queue.poll();
+        TreeNode node2 = queue.poll();
 
-        if (node1 == null || node2 == null || node1.val != node2.val) 
+        // Both nodes are null, continue to next pair
+        if (node1 == null && node2 == null) continue;
+
+        // If one node is null or values differ, the tree is not symmetric
+        if (node1 == null || node2 == null || node1.val != node2.val) {
             return false;
+        }
 
-        return isMirror(node1.left, node2.right) && isMirror(node1.right, node2.left);
+        // Add children in mirrored order to the queue
+        queue.offer(node1.left);
+        queue.offer(node2.right);
+        queue.offer(node1.right);
+        queue.offer(node2.left);
+    }
 
+    return true;
     }
 }
