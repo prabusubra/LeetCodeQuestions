@@ -16,11 +16,11 @@ class Solution {
         
         ListNode first = node, second = node;
 
-        for (int i = 0; i < n; i++ ) {
+        for (int i = 0; i <= n; i++ ) {
             second = second.next;
         }
 
-        while (second.next != null) {
+        while (second != null) {
             first = first.next;
             second = second.next;
         }
