@@ -13,13 +13,14 @@ class Solution {
         
         ListNode node = new ListNode(0);
         node.next = head;
+        
         ListNode first = node, second = node;
 
-        for (int i = 0; i <=n; i++ ) {
+        for (int i = 0; i < n; i++ ) {
             second = second.next;
         }
 
-        while (second != null) {
+        while (second.next != null) {
             first = first.next;
             second = second.next;
         }
