@@ -38,6 +38,10 @@ class Solution {
 
         return dummy.next;
     }
-
     
 }
+
+/**
+* Time Complexity: \U0001d442(\U0001d45b) O(n) (Single traversal of the list)
+* Space Complexity: \U0001d442(1) O(1) (In-place operation with constant extra space) 
+*/
