@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
