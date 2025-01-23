@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
