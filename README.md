@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
