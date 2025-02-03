@@ -21,8 +21,8 @@ class Solution {
         }
 
         for (int i = 0; i < nums.length; i++ ) {
-            boolean duplicate = i > 0 && nums[i] == nums[i-1] && used[i-1];
-            if (!used[i] && !duplicate) {
+            boolean isUsedAndDuplicate = i > 0 && nums[i] == nums[i-1] && used[i-1];
+            if (!used[i] && !isUsedAndDuplicate) {
                 used[i] = true;
                 curr.add(nums[i]);
                 backtrack(nums, curr, result, used);
