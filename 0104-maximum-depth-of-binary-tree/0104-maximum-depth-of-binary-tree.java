@@ -15,12 +15,29 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        return check(root);
-    }
-    
-    public int check(TreeNode node){
-        if (node ==null) return 0;
-        return 1 + Math.max(check(node.left),check(node.right));
         
+        //based on nodes
+        int height = 0;
+
+        if (root == null) return height;
+
+        Deque<TreeNode> queue = new ArrayDeque<>();
+
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            height++;
+
+            int level = queue.size();
+
+            for (int i = 0; i < level; i++ ) {
+                TreeNode curr = queue.poll();
+
+                if (curr.left != null ) queue.offer(curr.left);
+                if (curr.right != null ) queue.offer(curr.right);
+            }
+        }
+
+        return height;
     }
 }
