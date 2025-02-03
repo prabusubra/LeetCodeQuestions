@@ -21,7 +21,7 @@ class Solution {
         }
 
         for (int i = 0; i < nums.length; i++ ) {
-            boolean duplicate = i > 0 && nums[i] == nums[i-1] && used[i-1];
+            boolean duplicate = i > 0 && nums[i] == nums[i-1] && !used[i-1];
             if (!used[i] && !duplicate) {
                 used[i] = true;
                 curr.add(nums[i]);
