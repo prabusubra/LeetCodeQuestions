@@ -10,24 +10,21 @@
 
 func diameterOfBinaryTree(root *TreeNode) int {
     diameter := 0
-    height(root, &diameter);
 
-    return diameter
+    var height func(node *TreeNode) int
 
-}
-
-func height(node *TreeNode, diameter *int) int {
+    height = func(node *TreeNode) int {
     if node == nil {
         return 0
     }
 
-    left := height(node.Left, diameter)
-    right := height(node.Right, diameter)
+    left := height(node.Left)
+    right := height(node.Right)
 
     currdiameter := left + right
 
-    if currdiameter > *diameter {
-        *diameter = currdiameter
+    if currdiameter > diameter {
+        diameter = currdiameter
     } 
 
     currheight := left
@@ -37,4 +34,11 @@ func height(node *TreeNode, diameter *int) int {
     }
 
     return currheight +1;
+
+
+    }
+    height(root);
+
+    return diameter
+
 }
