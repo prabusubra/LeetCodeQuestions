@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prabusubra/LeetCodeQuestions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
 |  |
