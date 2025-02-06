@@ -1,9 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        
-        List<String> result = new ArrayList<>();
 
-        if (digits == null || digits.length() == 0) return result;
+        if (digits == null || digits.length() == 0) return new ArrayList<>();
 
         Map<Integer, String> mapper = new HashMap<>();
 
@@ -16,30 +14,25 @@ class Solution {
         mapper.put(8, "tuv");
         mapper.put(9, "wxyz");
 
-        backtrack(digits, result, mapper, new StringBuilder(), 0);
-        return result;
+        Deque<String> queue = new ArrayDeque<>();
+        queue.offer("");
 
-    }
+        for (char digit: digits.toCharArray()) {
 
-    private void backtrack(String digits, List<String> result, 
-                            Map<Integer, String> mapper, StringBuilder curr, int index) {
+            String letters = mapper.get(digit - '0');
 
-        
-        if (index == digits.length()) {
-            result.add(curr.toString());
-            return;
+            int size = queue.size();
+
+            while (size > 0) {
+                String comb = queue.poll();
+                for (char letter: letters.toCharArray()) {
+                    queue.offer(comb+letter);
+                }
+                size--;
+            }
         }
-        //int currLtr = ;
-        //System.out.println("Reee : "+currLtr);
-        String letters = mapper.get(digits.charAt(index) - '0');
 
-        for (int i = 0; i < letters.length(); i++ ) {
-            curr.append(letters.charAt(i));
-
-            backtrack(digits, result, mapper, curr, index+1);
-
-            curr.deleteCharAt(curr.length()-1);
-        }
+        return new ArrayList<>(queue);
 
     }
 }
