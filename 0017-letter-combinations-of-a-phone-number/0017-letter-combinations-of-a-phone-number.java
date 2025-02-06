@@ -29,9 +29,9 @@ class Solution {
             result.add(curr.toString());
             return;
         }
-
-        //System.out.println("Reee : "+ch);
-        String letters = mapper.get(digits.charAt(index) - '0');
+        int currLtr = digits.charAt(index) - '0';
+        //System.out.println("Reee : "+currLtr);
+        String letters = mapper.get(currLtr);
 
         for (int i = 0; i < letters.length(); i++ ) {
             curr.append(letters.charAt(i));
