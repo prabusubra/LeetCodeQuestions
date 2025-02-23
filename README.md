@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [1635-number-of-good-pairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1635-number-of-good-pairs) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
