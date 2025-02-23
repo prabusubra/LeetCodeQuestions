@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1917-maximum-average-pass-ratio](https://github.com/prabusubra/LeetCodeQuestions/tree/master/1917-maximum-average-pass-ratio) |
