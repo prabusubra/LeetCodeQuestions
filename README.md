@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
