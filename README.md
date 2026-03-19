@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
