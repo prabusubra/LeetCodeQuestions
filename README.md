@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0525-contiguous-array) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0460-lfu-cache) |
 ## Memoization
 |  |
 | ------- |
