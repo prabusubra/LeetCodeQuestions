@@ -10,7 +10,7 @@ class Solution {
         for (int i=0; i < s.length(); i++ ) {
             char ch = s.charAt(i);
 
-            if (slide.containsKey(ch) && slide.get(ch) >= left) {
+            if (slide.containsKey(ch) && left <= slide.get(ch)) {
                 left = slide.get(ch)+1;
             }
             slide.put(ch, i);
