@@ -37,11 +37,14 @@ class LFUCache {
             return;
         }
 
+        //Remove 
         if (lfuCache.size() == capacity) {
             Set<Integer> keys = freqMap.get(minFreq);
-            int evict = keys.iterator().next();
+            int evict = keys.stream().findFirst().get();
 
             keys.remove(evict);
+            
+            //Remove from freqMap if no value for the count.
             if (keys.isEmpty()) {
                 freqMap.remove(minFreq);
             }
