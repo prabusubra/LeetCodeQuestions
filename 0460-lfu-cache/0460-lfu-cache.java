@@ -15,30 +15,13 @@ class LFUCache {
     }
     
     public int get(int key) {
+
         if (!lfuCache.containsKey(key)) {
             return -1;
         }
 
-        Node node = lfuCache.get(key);
-        int currentFreq = node.freq;
-
-        // remove from old freq
-        Set<Integer> oldSet = freqMap.get(currentFreq);
-        oldSet.remove(key);
-        if (oldSet.isEmpty()) {
-            freqMap.remove(currentFreq);
-            if (currentFreq == minFreq) {
-                minFreq++;
-            }
-        }
-
-        // increase freq
-        node.freq++;
-        int newFreq = node.freq;
-
-        freqMap.computeIfAbsent(newFreq, k -> new LinkedHashSet<>()).add(key);
-
-        return node.val;
+        updateFrequency(key);
+        return lfuCache.get(key).val;
 
     }
     
@@ -49,7 +32,8 @@ class LFUCache {
         if (lfuCache.containsKey(key)) {
             Node node = lfuCache.get(key);
             node.val = value;
-            get(key); // reuse logic
+
+            updateFrequency(key);
             return;
         }
 
@@ -68,10 +52,37 @@ class LFUCache {
         Node newNode = new Node(value, 1);
         lfuCache.put(key, newNode);
 
-        freqMap.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
+        freqMap
+            .computeIfAbsent(1, k -> new LinkedHashSet<>())
+            .add(key);
+
         minFreq = 1;
 
     }
+
+    private void updateFrequency(int key) {
+    Node node = lfuCache.get(key);
+    int currentFreq = node.freq;
+
+    // remove from old freq set
+    Set<Integer> oldSet = freqMap.get(currentFreq);
+    oldSet.remove(key);
+
+    if (oldSet.isEmpty()) {
+        freqMap.remove(currentFreq);
+        if (currentFreq == minFreq) {
+            minFreq++;
+        }
+    }
+
+    // increase freq
+    node.freq++;
+    int newFreq = node.freq;
+
+    freqMap
+        .computeIfAbsent(newFreq, k -> new LinkedHashSet<>())
+        .add(key);
+}
 
     class Node {
         int val;
