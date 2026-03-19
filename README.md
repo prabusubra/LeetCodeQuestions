@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0813-all-paths-from-source-to-target](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prabusubra/LeetCodeQuestions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
