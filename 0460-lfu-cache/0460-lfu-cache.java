@@ -1,15 +1,14 @@
 class LFUCache {
 
     private int capacity;
-    private Map<Integer, Set<Integer>> frequencyMap;
+    private Map<Integer, Set<Integer>> freqMap;
     private Map<Integer, Node> lfuCache;
     private int minFreq;
 
     public LFUCache(int capacity) {
         this.capacity = capacity;
         this.minFreq = 0;
-        this.frequencyMap = new HashMap<>();
-        this.frequencyMap.put(1, new LinkedHashSet<>());
+        this.freqMap = new HashMap<>();
         this.lfuCache = new HashMap<>();
 
 
@@ -24,10 +23,10 @@ class LFUCache {
         int currentFreq = node.freq;
 
         // remove from old freq
-        Set<Integer> oldSet = frequencyMap.get(currentFreq);
+        Set<Integer> oldSet = freqMap.get(currentFreq);
         oldSet.remove(key);
         if (oldSet.isEmpty()) {
-            frequencyMap.remove(currentFreq);
+            freqMap.remove(currentFreq);
             if (currentFreq == minFreq) {
                 minFreq++;
             }
@@ -37,7 +36,7 @@ class LFUCache {
         node.freq++;
         int newFreq = node.freq;
 
-        frequencyMap.computeIfAbsent(newFreq, k -> new LinkedHashSet<>()).add(key);
+        freqMap.computeIfAbsent(newFreq, k -> new LinkedHashSet<>()).add(key);
 
         return node.val;
 
@@ -55,12 +54,12 @@ class LFUCache {
         }
 
         if (lfuCache.size() == capacity) {
-            Set<Integer> keys = frequencyMap.get(minFreq);
+            Set<Integer> keys = freqMap.get(minFreq);
             int evict = keys.iterator().next();
 
             keys.remove(evict);
             if (keys.isEmpty()) {
-                frequencyMap.remove(minFreq);
+                freqMap.remove(minFreq);
             }
 
             lfuCache.remove(evict);
@@ -69,7 +68,7 @@ class LFUCache {
         Node newNode = new Node(value, 1);
         lfuCache.put(key, newNode);
 
-        frequencyMap.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
+        freqMap.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
         minFreq = 1;
 
     }
