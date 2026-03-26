@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0134-gas-station) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/prabusubra/LeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
