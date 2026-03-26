@@ -5,8 +5,8 @@ class Solution {
         int[] counter = new int[26];
 
         for (int i=0; i < s.length(); i++ ) {
-            int curr = ++counter[s.charAt(i) - 'A'];
-            maxFreq = Math.max(maxFreq, curr);
+            
+            maxFreq = Math.max(maxFreq, ++counter[s.charAt(i) - 'A']);
 
             if ( (i - left + 1) - maxFreq  > k) {
                 counter[s.charAt(left) - 'A']--;
