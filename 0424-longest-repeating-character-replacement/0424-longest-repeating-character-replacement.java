@@ -8,16 +8,12 @@ class Solution {
             counter[s.charAt(i) - 'A']++;
             maxFreq = Math.max(maxFreq, counter[s.charAt(i) - 'A']);
 
-
-            int currLength = i - left + 1;
-            int windowSize = currLength - maxFreq;
-            if ( windowSize > k) {
+            if ( (i - left + 1) - maxFreq  > k) {
                 counter[s.charAt(left) - 'A']--;
                 left++;
             }
-            currLength = i - left + 1;
 
-            maxLength = Math.max(maxLength, currLength);
+            maxLength = Math.max(maxLength, i - left + 1);
 
         }
 
