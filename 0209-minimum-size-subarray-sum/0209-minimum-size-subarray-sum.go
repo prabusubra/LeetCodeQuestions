@@ -1,6 +1,6 @@
 func minSubArrayLen(target int, nums []int) int {
     
-    left, sum, min := 0, 0, math.MaxInt64
+    left, sum, min := 0, 0, int(^uint(0) >> 1)
 
     for i:= 0; i < len(nums); i++ {
         sum += nums[i]
