@@ -2,6 +2,12 @@ func minSubArrayLen(target int, nums []int) int {
     
     left, sum := 0, 0
 
+    /**
+    * uint(0) -> 00000000 00000000 00000000 00000000
+    * ^uint(0) --> 11111111 11111111 11111111 11111111
+    * ^unit(0) >> 1 --> 01111111 11111111 11111111 11111111
+    **/
+
     minLenth := int(^uint(0) >> 1)
 
     for i:= 0; i < len(nums); i++ {
