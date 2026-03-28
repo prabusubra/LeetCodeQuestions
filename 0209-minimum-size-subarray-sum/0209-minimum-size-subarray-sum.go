@@ -14,10 +14,9 @@ func minSubArrayLen(target int, nums []int) int {
             left++
         }
     }
-    result := 0
 
-    if min < math.MaxInt64 {
-        result = min
+    if min == math.MaxInt64 {
+        return 0
     }
-    return  result;
+    return  min;
 }
