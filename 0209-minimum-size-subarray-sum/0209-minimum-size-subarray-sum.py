@@ -6,6 +6,7 @@ class Solution:
 
         for i in range(len(nums)):
             total += nums[i]
+            
             while target <= total:
                 currLen = i - left + 1
                 minLen = min(minLen, currLen)
