@@ -3,12 +3,8 @@ class Solution {
      
       Arrays.sort(intervals, (a, b) -> (a[0] - b[0]));
 
-
-        System.out.println("Result : "+intervals);
-
         List<int[]> result = new ArrayList<>();
 
-        List<int[]> res = new ArrayList<>();
 
         for (int[] interval: intervals) {
             //System.out.println("Intervals : "+ interval[0] + " -- > " +interval[1]);
@@ -34,7 +30,7 @@ class Solution {
 
         }
 
-        return result.toArray(new int[res.size()][res.size()]);
+        return result.toArray(new int[result.size()][]);
 
     }
 }
